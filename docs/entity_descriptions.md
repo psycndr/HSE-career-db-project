@@ -134,8 +134,8 @@ feedback - отзыв о наставничестве
 
 ### Индексы
 Рекомендуемые индексы для оптимизации:
-- Student(university_id, faculty)
-- Vacancy(employer_id, status)
-- Application(student_id, applied_at)
-- Application(vacancy_id, status)
-- EventRegistration(event_id, student_id)
+- `Student(university_id, faculty)`
+- `Vacancy(employer_id, status)`
+- `Application(student_id, applied_at)`
+- `Application(vacancy_id, status)`
+- `EventRegistration(event_id, student_id)`
