@@ -1,4 +1,4 @@
-# HSE-career-db_project
+# HSE-career-db-project
 
 ### Учебное задание по курсу "Базы данных", 2 курс, Бизнес-Информатика, НИУ ВШЭ
 
@@ -142,7 +142,7 @@ HSE-career-db-project/
 ### 1. Установка и настройка
 ```bash
 # Клонирование репозитория
-git clone https://github.com/your-username/career-database-system.git
+git clone https://github.com/psycndr/HSE-career-db-project.git
 cd career-database-system
 ```
 ### 2. Развертывание базы данных
