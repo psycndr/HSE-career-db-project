@@ -47,8 +47,8 @@
 
 ### Используемые технологии
 - **СУБД**: `Microsoft SQL Server`
-- **Язык**: `SQL`
-- **Документация**: Markdown, ER-диаграммы
+- **Язык**: `T-SQL`
+- **Документация**: Markdown
 
 ### Ключевые элементы базы данных
 - **Таблицы**: Student, University, Employer, Vacancy, Application, Interview, CareerEvent, EventRegistration, Mentor, StudentMentor
