@@ -143,7 +143,7 @@ HSE-career-db-project/
 ```bash
 # Клонирование репозитория
 git clone https://github.com/psycndr/HSE-career-db-project.git
-cd career-database-system
+cd HSE-career-db-project
 ```
 ### 2. Развертывание базы данных
 ```sql
